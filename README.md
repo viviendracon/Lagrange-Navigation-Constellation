@@ -3,6 +3,7 @@
 
 **DRAFT CONCEPT PAPER**  
 *March 2025*
+KV Dracon, Claude Sonnet 3.7 Extended, GPT o-1
 
 ---
 
